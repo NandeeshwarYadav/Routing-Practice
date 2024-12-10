@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.navpage {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.img-title {
+  display: flex;
+  float: row;
+  font-size: 12px;
+}
+.nav-titles {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  font-size: 20px;
+}
+.headers {
+  font-weight: 500;
+  margin-right: 20px;
+  text-decoration: none;
+}
